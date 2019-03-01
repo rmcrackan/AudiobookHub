@@ -13,7 +13,7 @@ Behind the scenes, most if not all resources below use these for their heavy lif
 
 [inAudible][inaudible]: remove Audible DRM, edit files, and convert files. Source code and installers available
 
-OpenAudible -- [website][openaudibleWebsite] [source code][openaudibleGit]: open-source cross-platform audible audiobook manager
+OpenAudible -- [website][openaudibleWebsite] -- [source code][openaudibleGit]: open-source cross-platform audible audiobook manager
 
 [Audible API][audibleApi]: WIP interface for internal Audible API
 
