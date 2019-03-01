@@ -1,5 +1,5 @@
 # AudiobookHub
-Software resources for improving audiobook management
+Software resources for audiobook management. Especially organization and removing DRM from Audible files
 
 ## DRM Removal
 
