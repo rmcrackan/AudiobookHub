@@ -10,7 +10,7 @@ Behind the scenes, most if not all resources below use these for their heavy lif
 
 ## Resources
 
-* [inAudible][inaudible]: remove Audible DRM, edit files, and convert files. Source code and installers available
+* [inAudible][inaudible]: remove Audible DRM, edit files, and convert files. Installers available
 * OpenAudible -- [website][openaudibleWebsite] -- [source code][openaudibleGit]: open-source cross-platform audible audiobook manager
 * [Audible API][audibleApi]: WIP interface for internal Audible API
 * [OSAC][osac]: Open Source Audible Converter. Convert audible's proprietary AAX audio files to MP3, AAC/M4B, or FLAC
