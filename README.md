@@ -11,6 +11,7 @@ Behind the scenes, most if not all resources below use these for their heavy lif
 ## Resources
 
 * [inAudible][inaudible]: remove Audible DRM, edit files, and convert files. Installers available
+* [AAX Audio Converter][aaxaudioconverter]: Convert Audible aax files to mp3 and m4a
 * OpenAudible -- [website][openaudibleWebsite] -- [source code][openaudibleGit]: open-source cross-platform audible audiobook manager
 * [Audible API][audibleApi]: WIP interface for internal Audible API
 * [OSAC][osac]: Open Source Audible Converter. Convert audible's proprietary AAX audio files to MP3, AAC/M4B, or FLAC
@@ -20,6 +21,7 @@ Behind the scenes, most if not all resources below use these for their heavy lif
   [ffmpeg]: https://ffmpeg.org/ffmpeg-all.html#Audible-AAX
   
   [inaudible]: https://github.com/rmcrackan/inAudible
+  [aaxaudioconverter]: https://github.com/audiamus/AaxAudioConverter
   [openaudibleWebsite]: https://openaudible.org/
   [openaudibleGit]: https://github.com/openaudible/openaudible
   [audibleApi]: https://github.com/omarroth/audible.cr
