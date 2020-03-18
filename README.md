@@ -24,6 +24,7 @@ Interfaces for internal Audible API
 * [Libation][libation]: audible audiobook manager. Download, decrypt, organize, search, and tag. Open-source. Windows only
 * [OSAC][osac]: Open Source Audible Converter. Convert audible's proprietary AAX audio files to MP3, AAC/M4B, or FLAC
 * [AAXtoMP3][aaxtomp3]: Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
+* [Audible Statistics Extractor][audibleStatisticsExtractor]: script to export your Audible library to a spreadsheet
 
   [audibleActivator]: https://github.com/inAudible-NG/audible-activator
   [ffmpeg]: https://ffmpeg.org/ffmpeg-all.html#Audible-AAX
@@ -35,3 +36,4 @@ Interfaces for internal Audible API
   [openaudibleGit]: https://github.com/openaudible/openaudible
   [osac]: https://github.com/adrifcastr/OSAC
   [aaxtomp3]: https://github.com/KrumpetPirate/AAXtoMP3
+  [audibleStatisticsExtractor]: https://www.themodernnomad.com/audible-statistics-extractor/
