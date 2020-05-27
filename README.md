@@ -18,10 +18,10 @@ Interfaces for internal Audible API
 
 ## Resources
 
+* [Libation][libation]: audible audiobook manager. Download, decrypt, organize, search, and tag. Open-source. Windows only
 * [inAudible][inaudible]: remove Audible DRM, edit files, and convert files. Installers available
 * [AAX Audio Converter][aaxaudioconverter]: Convert Audible aax files to mp3 and m4a
-* OpenAudible -- [website][openaudibleWebsite] -- [source code][openaudibleGit]: open-source cross-platform audible audiobook manager
-* [Libation][libation]: audible audiobook manager. Download, decrypt, organize, search, and tag. Open-source. Windows only
+* [OpenAudible][openaudible]: cross-platform audible audiobook manager ($12 shareware)
 * [OSAC][osac]: Open Source Audible Converter. Convert audible's proprietary AAX audio files to MP3, AAC/M4B, or FLAC
 * [AAXtoMP3][aaxtomp3]: Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
 * [Audible Statistics Extractor][audibleStatisticsExtractor]: script to export your Audible library to a spreadsheet
@@ -29,11 +29,10 @@ Interfaces for internal Audible API
   [audibleActivator]: https://github.com/inAudible-NG/audible-activator
   [ffmpeg]: https://ffmpeg.org/ffmpeg-all.html#Audible-AAX
 
+  [libation]: https://github.com/rmcrackan/Libation
   [inaudible]: https://github.com/rmcrackan/inAudible
   [aaxaudioconverter]: https://github.com/audiamus/AaxAudioConverter
-  [libation]: https://github.com/rmcrackan/Libation
-  [openaudibleWebsite]: https://openaudible.org/
-  [openaudibleGit]: https://github.com/openaudible/openaudible
+  [openaudible]: https://openaudible.org/
   [osac]: https://github.com/adrifcastr/OSAC
   [aaxtomp3]: https://github.com/KrumpetPirate/AAXtoMP3
   [audibleStatisticsExtractor]: https://www.themodernnomad.com/audible-statistics-extractor/
