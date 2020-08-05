@@ -27,8 +27,9 @@ Interfaces for internal Audible API
 
 Behind the scenes, most if not all resources below use these for their heavy lifting (although they aren't the easiest to use directly)
 
-* [audible-activator][audibleActivator]: Retrieves your activation data (activation_bytes) from Audible servers
 * [FFmpeg][ffmpeg]: A complete, cross-platform solution to record, convert and stream audio and video. Includes the ability to use your activation data to strip DRM from .aax files
+* [audible-activator][audibleActivator]: Retrieves your activation data (activation_bytes) from Audible servers
+* [audible-tools.github.io][activationBytesLib]: free service which resolves audible activation bytes. [Nuget pkg][activationBytesLibNuget]. [How to use][activationBytesLibHowToUse]
 
   [libation]: https://github.com/rmcrackan/Libation
   [inaudible]: https://github.com/rmcrackan/inAudible
@@ -39,5 +40,8 @@ Behind the scenes, most if not all resources below use these for their heavy lif
   [audibleStatisticsExtractor]: https://www.themodernnomad.com/audible-statistics-extractor/
   [audibleSpecialPromoSaleScraper]: https://github.com/joonaspaakko/audible-special-promo-sale-scraper
 
-  [audibleActivator]: https://github.com/inAudible-NG/audible-activator
   [ffmpeg]: https://ffmpeg.org/ffmpeg-all.html#Audible-AAX
+  [audibleActivator]: https://github.com/inAudible-NG/audible-activator
+  [activationBytesLib]: https://audible-tools.github.io
+  [activationBytesLibNuget]: https://www.nuget.org/packages/Aax.Activation.ApiClient/1.0.0
+  [activationBytesLibHowToUse]: https://github.com/JKamsker/OSAC/blob/master/OSAC/MainWindow.xaml.cs#L172
