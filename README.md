@@ -1,6 +1,10 @@
 # AudiobookHub
 Software resources for audiobook management. Especially Audible-centric, including organization and removing DRM from Audible files
 
+## Guides
+* https://github.com/seanap/Plex-Audiobook-Guide: Plex & Booksonic Audiobook Guide. Put your audiobooks in Plex then use Prologue or BookCamp to stream your whole library. You can even share with your friends and family
+* http://checkthebenchmarks.com/2019/09/23/why-you-should-manage-your-own-audible-library/: Manage your own Audible library
+
 ## Audible APIs
 
 Interfaces for internal Audible API
