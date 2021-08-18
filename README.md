@@ -37,3 +37,6 @@ Behind the scenes, most if not all resources below use these for their heavy lif
 * [FFmpeg](https://ffmpeg.org/ffmpeg-all.html#Audible-AAX): A complete, cross-platform solution to record, convert and stream audio and video. Includes the ability to use your activation data to strip DRM from .aax files
 * [audible-activator](https://github.com/inAudible-NG/audible-activator): Retrieves your activation data (activation_bytes) from Audible servers
 * [audible-tools.github.io](https://audible-tools.github.io): free service which resolves audible activation bytes. [Nuget pkg](https://www.nuget.org/packages/Aax.Activation.ApiClient/1.0.0). [How to use](https://github.com/JKamsker/OSAC/blob/master/OSAC/MainWindow.xaml.cs#L172)
+
+## File editing and manipulation
+[AudioBookConverter](https://www.recoupler.com/products/audiobookconverter) ([Code on github](https://github.com/yermak/AudioBookConverter)): convert. Also advanced chapter support for combining and splitting
