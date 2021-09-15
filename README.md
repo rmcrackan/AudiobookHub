@@ -9,7 +9,6 @@ Software resources for audiobook management. Especially Audible-centric, includi
 
 Interfaces for internal Audible API
 
-* https://github.com/omarroth/audible.cr: written in Crystal
 * https://github.com/mkb79/Audible: written in Python
 * https://github.com/rmcrackan/AudibleApi: written in C#
 
