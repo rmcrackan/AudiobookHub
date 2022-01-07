@@ -19,6 +19,7 @@ Interfaces for internal Audible API
 * [inAudible](https://github.com/rmcrackan/inAudible): remove Audible DRM, edit files, and convert files. Installers available
 * [AAX Audio Converter](https://github.com/audiamus/AaxAudioConverter): Convert Audible aax files to mp3 and m4a
 * [OpenAudible](https://openaudible.org/): cross-platform audible audiobook manager (~~$12~~ $19 shareware)
+* [Audible Plus Converter](https://www.z3kit.com/audorplus/): Windows, Mac. $15/quarter, $30/yr, or $60 lifetime
 * [OSAC](https://github.com/adrifcastr/OSAC): Open Source Audible Converter. Convert audible's proprietary AAX audio files to MP3, AAC/M4B, or FLAC
 * [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3): Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
 * [Audible-CLI](https://github.com/mkb79/audible-cli): A command line interface for the above audible Python API
