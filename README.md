@@ -17,7 +17,8 @@ Interfaces for internal Audible API
 
 * [Libation](https://github.com/rmcrackan/Libation): audible audiobook manager. Download, decrypt, organize, search, and tag. Open-source. GUI and CLI. Windows only
 * [inAudible](https://github.com/rmcrackan/inAudible): remove Audible DRM, edit files, and convert files. Installers available
-* [AAX Audio Converter](https://github.com/audiamus/AaxAudioConverter): Convert Audible aax files to mp3 and m4a
+* [Book Lib Connect](https://github.com/audiamus/BookLibConnect): A standalone Audible downloader and decrypter
+* [AAX Audio Converter](https://github.com/audiamus/AaxAudioConverter): Convert Audible aax files to mp3 and m4a/m4b
 * [OpenAudible](https://openaudible.org/): cross-platform audible audiobook manager (~~$12~~ $19 shareware)
 * [Audible Plus Converter](https://www.z3kit.com/audorplus/): Windows, Mac. $15/quarter, $30/yr, or $60 lifetime
 * [OSAC](https://github.com/adrifcastr/OSAC): Open Source Audible Converter. Convert audible's proprietary AAX audio files to MP3, AAC/M4B, or FLAC
