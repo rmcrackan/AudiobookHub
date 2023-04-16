@@ -37,6 +37,10 @@ Interfaces for internal Audible API
 * [Audible library cover downloader](https://github.com/joonaspaakko/audible-library-cover-downloader): downloads all covers in your Audible library and generates a screensaver web page
 * [audible wishlist scraper](https://github.com/joonaspaakko/audible-wishlist-scraper): Fetches your wishlist and outputs it as: html, markdown, plaintext, json, csv
 
+## Browser entensions
+
+* [Audible Series Follower](https://chrome.google.com/webstore/detail/audible-series-follower/ginemimjkldnbpgllnjnfkggfjckiekm): A chrome extension to allow you to follow series you like on Audible
+
 ## DRM Removal
 
 Behind the scenes, most if not all resources below use these for their heavy lifting (although they aren't the easiest to use directly)
