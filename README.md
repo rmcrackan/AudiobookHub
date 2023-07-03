@@ -19,7 +19,7 @@ Interfaces for internal Audible API
 
 ## Backup, decrypt, convert, organize
 
-* [Libation](https://github.com/rmcrackan/Libation): audible audiobook manager. Download, decrypt, organize, search, and tag. Open-source. GUI and CLI. Windows only
+* [Libation](https://github.com/rmcrackan/Libation): audible audiobook manager. Download, decrypt, organize, search, and tag. Free. Open-source. Windows, Mac, and Linux. GUI and CLI.
 * [inAudible](https://github.com/rmcrackan/inAudible): remove Audible DRM, edit files, and convert files. Installers available
 * [Book Lib Connect](https://github.com/audiamus/BookLibConnect): A standalone Audible downloader and decrypter
 * [AAX Audio Converter](https://github.com/audiamus/AaxAudioConverter): Convert Audible aax files to mp3 and m4a/m4b
