@@ -17,6 +17,20 @@ Interfaces for internal Audible API
 * https://github.com/rmcrackan/AudibleApi: written in C#. Used internally by Libation (below)
 * https://github.com/Mbucari/AAXClean: C# library for working with AAXC files without ffmpeg
 
+## Listening
+
+* iOS: [BookPlayer](https://apps.apple.com/us/app/bookplayer/id1138219998)
+* iOS: [Bound](https://apps.apple.com/us/app/bound-audiobook-player/id1041727137)
+* Android: [Smart AudioBook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer&hl=en_US&gl=US)
+* Android: [Listen](https://play.google.com/store/apps/details?id=ru.litres.android.audio&hl=en_US&gl=US)
+* Desktop: [VLC](https://www.videolan.org/)
+* Windows Desktop: [Audibly](https://github.com/rstewa/Audibly) -- a desktop player build specifically for audiobooks
+
+Self-hosting online:
+
+* [audiobookshelf](https://www.audiobookshelf.org). On [reddit](https://www.reddit.com/r/audiobookshelf/)
+* [plex](https://www.plex.tv/). Listen with [Prologue](https://prologue.audio/) (iOS)
+
 ## Backup, decrypt, convert, organize
 
 * [Libation](https://github.com/rmcrackan/Libation): audible audiobook manager. Download, decrypt, organize, search, and tag. Free. Open-source. Windows, Mac, and Linux. GUI and CLI.
