@@ -37,7 +37,7 @@ Self-hosting online:
 * [inAudible](https://github.com/rmcrackan/inAudible): remove Audible DRM, edit files, and convert files. Installers available
 * [Book Lib Connect](https://github.com/audiamus/BookLibConnect): A standalone Audible downloader and decrypter
 * [AAX Audio Converter](https://github.com/audiamus/AaxAudioConverter): Convert Audible aax files to mp3 and m4a/m4b
-* [OpenAudible](https://openaudible.org/): cross-platform audible audiobook manager (~~free~~, ~~$12~~, ~~$18.95 shareware~~, ~~$18.95~~, ~~$18.95 per year~~, $19.95 per year or $49.99 for lifetime)
+* [OpenAudible](https://openaudible.org/): cross-platform audible audiobook manager (~~free~~, ~~$12~~, ~~$18.95 shareware~~, ~~$18.95~~, ~~$18.95 per year~~, ~~$19.95 per year or $49.99 for lifetime~~, $21.95 per year and another $69.95 for lifetime)
 * [Audible Plus Converter](https://www.z3kit.com/audorplus/): Windows, Mac. $15/quarter, $30/yr, or $60 lifetime
 * [OSAC](https://github.com/adrifcastr/OSAC): Open Source Audible Converter. Convert audible's proprietary AAX audio files to MP3, AAC/M4B, or FLAC
 * [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3): Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
