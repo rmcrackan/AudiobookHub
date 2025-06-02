@@ -28,7 +28,7 @@ Interfaces for internal Audible API
 
 Self-hosting online:
 
-* [audiobookshelf](https://www.audiobookshelf.org). On [reddit](https://www.reddit.com/r/audiobookshelf/)
+* [audiobookshelf](https://www.audiobookshelf.org). On [reddit](https://www.reddit.com/r/audiobookshelf/). Listen with [ShelfPlayer](https://github.com/rasmuslos/ShelfPlayer) (iOS)
 * [plex](https://www.plex.tv/). Listen with [Prologue](https://prologue.audio/) (iOS)
 
 ## Backup, decrypt, convert, organize
