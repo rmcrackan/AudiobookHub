@@ -35,6 +35,7 @@ Self-hosting online:
 
 * [Libation](https://github.com/rmcrackan/Libation): audible audiobook manager. Download, decrypt, organize, search, and tag. Free. Open-source. Windows, Mac, and Linux. GUI and CLI.
 * [inAudible](https://github.com/rmcrackan/inAudible): remove Audible DRM, edit files, and convert files. Installers available
+* [LibriSync](https://github.com/Promises/LibriSync) -- Libation port for Android
 * [Book Lib Connect](https://github.com/audiamus/BookLibConnect): A standalone Audible downloader and decrypter
 * [AAX Audio Converter](https://github.com/audiamus/AaxAudioConverter): Convert Audible aax files to mp3 and m4a/m4b
 * [OpenAudible](https://openaudible.org/): cross-platform audible audiobook manager (~~free~~, ~~$12~~, ~~$18.95 shareware~~, ~~$18.95~~, ~~$18.95 per year~~, ~~$19.95 per year or $49.99 for lifetime~~, $21.95 per year and another $69.95 for lifetime)
