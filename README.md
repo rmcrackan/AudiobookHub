@@ -23,8 +23,11 @@ Interfaces for internal Audible API
 * iOS: [Bound](https://apps.apple.com/us/app/bound-audiobook-player/id1041727137)
 * Android: [Smart AudioBook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer&hl=en_US&gl=US)
 * Android: [Listen](https://play.google.com/store/apps/details?id=ru.litres.android.audio&hl=en_US&gl=US)
+* Android: [Voice Audiobook Player](https://f-droid.org/en/packages/de.ph1b.audiobook/) -- minimal audiobook player
+* Android [Libre Librivox listener](https://f-droid.org/en/packages/io.gitlab.libre_librivox_listener/) -- An unofficial libre application to listen to public domain audiobooks
 * Desktop: [VLC](https://www.videolan.org/)
 * Windows Desktop: [Audibly](https://github.com/rstewa/Audibly) -- a desktop player build specifically for audiobooks
+* Guide to DRM-Free Living. Audiobooks is about 2/3 down: https://www.defectivebydesign.org/guide/ebooks
 
 Self-hosting online:
 
