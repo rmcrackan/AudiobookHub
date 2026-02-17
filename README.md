@@ -2,7 +2,7 @@
 Software resources for audiobook management. Especially Audible-centric, including organization and removing DRM from Audible files
 
 ## Guides
-* https://github.com/seanap/Plex-Audiobook-Guide: Plex & Booksonic Audiobook Guide. Put your audiobooks in Plex then use Prologue or BookCamp to stream your whole library. You can even share with your friends and family
+* https://github.com/seanap/Plex-Audiobook-Guide: Plex & Booksonic Audiobook Guide. Put your audiobooks in Plex then use Prologue or Bookcamp to stream your whole library. You can even share with your friends and family
 * https://web.archive.org/web/20221012164516/http://checkthebenchmarks.com/2019/09/23/why-you-should-manage-your-own-audible-library/: Manage your own Audible library (note: do not visit the original domain, it has since been highjacked)
 
 ## Non-audible
@@ -32,7 +32,7 @@ Interfaces for internal Audible API
 Self-hosting online:
 
 * [audiobookshelf](https://www.audiobookshelf.org). On [reddit](https://www.reddit.com/r/audiobookshelf/). Listen with [ShelfPlayer](https://github.com/rasmuslos/ShelfPlayer) (iOS)
-* [plex](https://www.plex.tv/). Listen with [Prologue](https://prologue.audio/) (iOS)
+* [plex](https://www.plex.tv/). Listen with [Prologue](https://prologue.audio/) (iOS), [Bookcamp](https://www.bookcamp.app/) (iOS, Android)
 
 ## Backup, decrypt, convert, organize
 
