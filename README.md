@@ -23,6 +23,7 @@ Interfaces for internal Audible API
 
 * [BookPlayer](https://apps.apple.com/us/app/bookplayer/id1138219998)
 * [Bound](https://apps.apple.com/us/app/bound-audiobook-player/id1041727137)
+* [Plappa](https://plappa.me)
 
 ### Android
 
