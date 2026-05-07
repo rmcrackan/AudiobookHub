@@ -26,10 +26,12 @@ Interfaces for internal Audible API
 
 ### Android
 
-* [Smart AudioBook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer&hl=en_US&gl=US)
-* [Listen](https://play.google.com/store/apps/details?id=ru.litres.android.audio&hl=en_US&gl=US)
-* [Voice Audiobook Player](https://f-droid.org/en/packages/de.ph1b.audiobook/) -- minimal audiobook player
-* [Libre Librivox listener](https://f-droid.org/en/packages/io.gitlab.libre_librivox_listener/) -- An unofficial libre application to listen to public domain audiobooks
+* [Smart AudioBook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer&hl=en_US&gl=US): highly regarded audiobook player
+* [Libre Librivox listener](https://f-droid.org/en/packages/io.gitlab.libre_librivox_listener/): An unofficial libre application to listen to public domain audiobooks
+* [Homer Audio Player for Seniors](https://f-droid.org/packages/com.studio4plus.homerplayer2/): for non-tech people who need help. Probably also good for children
+* [Voice Offline Audiobook Player](https://f-droid.org/en/packages/de.ph1b.audiobook/): minimal audiobook player for local files
+* [VoicePlus](https://f-droid.org/packages/com.github.mistermo_vibecode.voiceplus/): plays local audio files
+* [audav](https://f-droid.org/packages/rocks.mm_dev.audav/): plays audiobooks stored on NextCloud/WebDAV
 * [AudioVault](https://play.google.com/store/apps/details?id=dev.stole.audiobookplayer) -- play from phone or server. [Setup guide](https://dejnastosic986.github.io/audiobook-player/)
 
 ### Self-hosting online
