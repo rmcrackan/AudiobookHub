@@ -85,3 +85,4 @@ Behind the scenes, most if not all resources below use these for their heavy lif
 
 ## File editing and manipulation
 [AudioBookConverter](https://www.recoupler.com/products/audiobookconverter) ([Code on github](https://github.com/yermak/AudioBookConverter)): convert. Also advanced chapter support for combining and splitting
+[ChapterPack](https://chapterpack.hexmobius.com/): free browser tool that splits a local M4B/M4A/MP3/WAV/OGG/FLAC file into numbered chapter MP3s in a ZIP, entirely on the device. No install, no account, and no DRM removal.
